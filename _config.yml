@@ -1,0 +1,17 @@
+# Site settings
+name: icy
+location: 东莞
+position: (想要成为)Java开发工程师
+github: https://lkxicy.github.io/
+phone: 18578455707
+email: lkx_icy@qq.com
+
+baseurl: "https://lkxicy.github.io/"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
